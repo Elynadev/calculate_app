@@ -1,0 +1,17 @@
+/* div{
+    background-color: rgb(159, 18, 230);
+    width: 800px;
+    height: 800px;
+}
+body{
+    background-color: blueviolet;
+    width: 100%;
+} */
+
+.content{
+    background-color: rgb(166, 89, 238);
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 180px;
+    padding: 50px;
+}
